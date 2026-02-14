@@ -1,0 +1,18 @@
+{
+  "6789544322": {
+    "ROP": {
+      "start_price": 321.33,
+      "started_at": 1771092561,
+      "start_notified": true,
+      "drop_pct": 0.02,
+      "start_source": "ASK"
+    },
+    "CDNS": {
+      "start_price": 299.465,
+      "started_at": 1771092620,
+      "start_notified": true,
+      "drop_pct": 0.02,
+      "start_source": "LAST"
+    }
+  }
+}
